@@ -39,5 +39,5 @@ Thumbs.db
 # Production build
 www/
 build/webpack.config.js
-config.js
+#config.js
 test.js
